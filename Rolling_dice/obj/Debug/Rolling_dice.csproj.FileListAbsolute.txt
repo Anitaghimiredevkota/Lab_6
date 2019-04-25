@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Rolling_dice\Rolling_dice\bin\Debug\Rolling_dice.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Rolling_dice\Rolling_dice\bin\Debug\Rolling_dice.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Rolling_dice\Rolling_dice\bin\Debug\Rolling_dice.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Rolling_dice\Rolling_dice\obj\Debug\Rolling_dice.csprojAssemblyReference.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Rolling_dice\Rolling_dice\obj\Debug\Rolling_dice.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Rolling_dice\Rolling_dice\obj\Debug\Rolling_dice.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Rolling_dice\Rolling_dice\obj\Debug\Rolling_dice.pdb
